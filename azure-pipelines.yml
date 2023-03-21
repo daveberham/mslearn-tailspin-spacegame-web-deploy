@@ -3,11 +3,6 @@ trigger:
 
 variables:
   buildConfiguration: 'Release'
-<<<<<<< HEAD
-  wwwrootDir: 'Tailspin.SpaceGame.Web/wwwroot'
-  dotnetSdkVersion: '6.x'
-=======
->>>>>>> 0e3aa3e (Add a deployment stage)
 
 stages:
 - stage: 'Build'
